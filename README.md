@@ -4,3 +4,5 @@ App interactiva que calcula métricas clave: rendimiento, volatilidad y Sharpe; 
 ¿Porqué cree este proyecto? Este proyecto nació debido a la necesidad de crear y comparar difrentes portafolios de inversión para la materia de fondos de inversión, debido a que el método convencional en excel llega a tardar aproximadamente 30 minutos, cree este código que luego pasé a una aplicación en streamlit haciendo que mi equipo pudiera obtener la información relevante en tan solo segundos, permitiendo comparar diferentes portafolios en diferentes series de tiempos.
 
 ¿Qué tiene de diferente con Portfolio master V1? La principal diferencia con portafolio masters v1 es la que esta segunda versión agrega nuevas funciones como la del riesgo sistemático de las acciones y del portafolio, que permite tener un mejor entendimiento de nuestro portafolio.
+
+App Link: https://portfolio-master-web-app.streamlit.app/
